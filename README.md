@@ -1,10 +1,5 @@
 ### Hi there 👋
-
-<!--
-**Khant-NyarxG-Next/Khant-NyarxG-Next** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+  My Name is Khant Si Thu Phyo and Here is my workspace of Gnext Myanmar
 - 🔭 I’m currently working on G-Next Myanmar
 - 🌱 I’m currently learning Odoo,Flutter,Node,Docker
 - 👯 I’m looking to collaborate on Backend Project
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Dev
 - ⚡ Fun fact: Sorry Dude !,I don't have
--->
